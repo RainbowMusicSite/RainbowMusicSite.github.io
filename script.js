@@ -45,6 +45,12 @@ const music_list = [
         artist : 'Biddle3',
         music : 'music/phantasm.mp3'
     },
+    {
+        img : 'images/too-slow-encore.jpg',
+        name : 'Too Slow Encore',
+        artist : 'Saster and MarStarBro',
+        music : 'music/too-slow-encore.mp3'
+    },
 ];
 
 loadTrack(track_index);
