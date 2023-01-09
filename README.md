@@ -1,4 +1,4 @@
-# Music-Player with JavaScript
+# Rainbow Music Assorted Radio
 
 Function
 1) Random Song
