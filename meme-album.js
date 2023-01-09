@@ -31,7 +31,7 @@ const music_list = [
         img : 'chug-jug.jpeg',
         name : 'Chug Jug With You',
         artist : 'Leviathan',
-        music : 'music/too-slow-encore.mp3'
+        music : 'music/chug-jug.mp3'
     },
 ];
 
