@@ -32,7 +32,7 @@ const music_list = [
         name : 'Chug Jug With You',
         artist : 'Leviathan',
         music : 'music/chug-jug.mp3'
-    },
+    }
 ];
 
 loadTrack(track_index);
