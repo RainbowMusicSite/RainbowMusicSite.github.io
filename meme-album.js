@@ -28,7 +28,7 @@ const music_list = [
         music : 'music/wellerman.mp3'
     },
     {
-        img : 'chug-jug.jpeg',
+        img : 'images/chug-jug.jpeg',
         name : 'Chug Jug With You',
         artist : 'Leviathan',
         music : 'music/chug-jug.mp3'
