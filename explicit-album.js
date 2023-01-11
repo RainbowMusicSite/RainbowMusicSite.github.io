@@ -22,7 +22,7 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/mustapha.mp3',
+        img : 'images/mustapha.jpeg',
         name : 'Mustapha',
         artist : 'Queen',
         music : 'music/mustapha.mp3'
