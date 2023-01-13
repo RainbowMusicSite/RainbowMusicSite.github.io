@@ -51,6 +51,12 @@ const music_list = [
         artist : 'Saster and MarStarBro',
         music : 'music/too-slow-encore.mp3'
     },
+    {
+        img : 'images/you-cant-run-encore.jpg',
+        name : 'You Cant Run Encore',
+        artist : 'SimplyCrispy',
+        music : 'music/you-cant-run-encore.mp3'
+    },
 ];
 
 loadTrack(track_index);
