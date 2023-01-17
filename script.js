@@ -183,11 +183,17 @@ function setUpdate(){
         curr_time.textContent = currentMinutes + ":" + currentSeconds;
         total_duration.textContent = durationMinutes + ":" + durationSeconds;
     }
-}
-    if(e.keyCode == 32){
-    curr_track.pause();
-    isPlaying = false;
-    track_art.classList.remove('rotate');
-    wave.classList.remove('loader');
-    playpause_btn.innerHTML = '<i class="fa fa-play-circle fa-5x"></i>';
-    }
+        if(e.keyCode == 32)
+        if (isplaying = true) {
+        curr_track.pause();
+        isPlaying = false;
+        track_art.classList.remove('rotate');
+        wave.classList.remove('loader');
+        playpause_btn.innerHTML = '<i class="fa fa-play-circle fa-5x"></i>';  
+        } else {
+            curr_track.play();
+            isPlaying = true;
+            track_art.classList.add('rotate');
+            wave.classList.add('loader');
+            playpause_btn.innerHTML = '<i class="fa fa-pause-circle fa-5x"></i>';   
+        }
