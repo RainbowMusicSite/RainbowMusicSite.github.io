@@ -29,7 +29,7 @@ const music_list = [
     },
     {
         img : 'images/last-breath.png',
-        name : 'Undertale AU Last Breath: An Enigmatic Encounter (FrostFM Cover)',
+        name : 'Last Breath Cover',
         artist : 'FrostFM',
         music : 'music/last-breath.mp3'
     }
