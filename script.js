@@ -57,6 +57,12 @@ const music_list = [
         artist : 'SimplyCrispy',
         music : 'music/you-cant-run-encore.mp3'
     },
+    {
+        img : 'images/heartbreak.jpeg',
+        name : 'This is what heartbreak feels like',
+        artist : 'JVKE',
+        music : 'music/heartbreak.mp3'
+    },
 ];
 
 loadTrack(track_index);
