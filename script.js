@@ -63,6 +63,12 @@ const music_list = [
         artist : 'JVKE',
         music : 'music/heartbreak.mp3'
     },
+    {
+        img : 'images/wellermanremix.jpg',
+        name : 'Wellerman (DJ Remix)',
+        artist : 'DJ Concito',
+        music : 'music/wellermanremix.mp3'
+    },
 ];
 
 loadTrack(track_index);
