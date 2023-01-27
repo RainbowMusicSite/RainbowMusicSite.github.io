@@ -69,6 +69,12 @@ const music_list = [
         artist : 'DJ Concito',
         music : 'music/wellermanremix.mp3'
     },
+    {
+        img : 'images/goldenhour.jpeg',
+        name : 'Golden Hour',
+        artist : 'JVKE',
+        music : 'music/goldenhour.mp3'
+    },
 ];
 
 loadTrack(track_index);
