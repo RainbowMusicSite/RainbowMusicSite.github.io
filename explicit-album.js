@@ -26,7 +26,13 @@ const music_list = [
         name : 'Mustapha',
         artist : 'Queen',
         music : 'music/mustapha.mp3'
-    }
+    },
+    {
+        img : 'images/feelgoodinc.jpeg',
+        name : 'Feel Good Inc',
+        artist : 'Gorillaz',
+        music : 'music/feelgoodinc.mp3'
+    },
 ];
 
 loadTrack(track_index);
