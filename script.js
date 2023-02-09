@@ -75,6 +75,12 @@ const music_list = [
         artist : 'JVKE',
         music : 'music/goldenhour.mp3'
     },
+    {
+        img : 'images/fallinginlove.jpeg',
+        name : 'This is what falling in love feels like',
+        artist : 'JVKE',
+        music : 'music/fallinginlove.mp3'
+    },
 ];
 
 loadTrack(track_index);
