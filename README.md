@@ -8,6 +8,8 @@ We currently have the following radios:
 2) Meme Radio
 3) Undertale Radio
 
+We have JVKE, AJR, MarStarBro, and more hit artists!
+
 Let me know if you want a new catagory via the Song Request Form. Make sure to set the type to catagory.
 
 
