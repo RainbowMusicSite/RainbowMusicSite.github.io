@@ -86,7 +86,7 @@ const music_list = [
         name : 'Cradles',
         artist : 'Sub Urban',
         music : 'music/cradles.mp3'
-    },
+    }
 ];
 
 loadTrack(track_index);
