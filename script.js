@@ -81,6 +81,12 @@ const music_list = [
         artist : 'JVKE',
         music : 'music/fallinginlove.mp3'
     },
+    {
+        img : 'images/cradles.png',
+        name : 'Cradles',
+        artist : 'Sub Urban',
+        music : 'music/cradles.mp3'
+    },
 ];
 
 loadTrack(track_index);
