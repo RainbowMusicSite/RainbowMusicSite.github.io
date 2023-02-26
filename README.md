@@ -14,6 +14,9 @@ Let me know if you want a new catagory via the Song Request Form. Make sure to s
 
 # Using the Application Source Code
 
-Porting & Compiling (first, run cd your_directory): npx electron-packager  folder_name --overwrite --asar --electron-version=13.4.0 --platform=your_platform --arch=x64 --prune=true --out=release-builds --icon=./folder_name/icon.ico
+Porting & Compiling (first, run cd your_directory): 
+
+
+npx electron-packager  folder_name --overwrite --asar --electron-version=13.4.0 --platform=your_platform --arch=x64 --prune=true --out=release-builds --icon=./folder_name/icon.ico
 
 
