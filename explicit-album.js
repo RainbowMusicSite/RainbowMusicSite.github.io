@@ -38,7 +38,7 @@ const music_list = [
         name : 'Limbo',
         artist : 'Freddie Dredd',
         music : 'music/limbo.mp3'
-    },
+    }
 ];
 
 loadTrack(track_index);
