@@ -28,11 +28,11 @@ const music_list = [
         music : 'music/beastfonk.mp3'
     },
     {
-        img : 'images/goofyahhvocals.png',
-        name : 'Goofy Ahh Vocals',
-        artist : 'ProducedByWhrxxa',
-        music : 'music/goofyahhvocals.mp3'
-    },
+        img : 'images/placeholder.png',
+        name : 'Limbo',
+        artist : 'Freddie Dredd',
+        music : 'music/limbo.mp3'
+    }
 ];
 
 loadTrack(track_index);
