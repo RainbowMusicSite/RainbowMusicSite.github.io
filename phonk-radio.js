@@ -36,7 +36,7 @@ const music_list = [
     {
         img : 'images/placeholder.png',
         name : 'GigaChad Theme (Phonk House Version)',
-        artist : 'Freddie Dredd',
+        artist : 'g3ox_em',
         music : 'music/gigachadphonk.mp3'
     }
 ];
