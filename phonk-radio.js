@@ -28,13 +28,13 @@ const music_list = [
         music : 'music/beastphonk.mp3'
     },
     {
-        img : 'images/placeholder.png',
+        img : 'images/limbo.png',
         name : 'Limbo',
         artist : 'Freddie Dredd',
         music : 'music/limbo.mp3'
     },
     {
-        img : 'images/placeholder.png',
+        img : 'images/gigachad.jpeg',
         name : 'GigaChad Theme (Phonk House Version)',
         artist : 'g3ox_em',
         music : 'music/gigachadphonk.mp3'
