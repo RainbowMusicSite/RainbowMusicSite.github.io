@@ -33,8 +33,9 @@ const music_list = [
         artist : 'ProducedByWhrxxa',
         music : 'goofyahhvocals.mp3'
     }
+];
 
-loadTrack(track_index);
+    loadTrack(track_index);
 
 function loadTrack(track_index){
     clearInterval(updateTimer);
