@@ -33,12 +33,6 @@ const music_list = [
         artist : 'Gorillaz',
         music : 'music/feelgoodinc.mp3'
     },
-    {
-        img : 'images/placeholder.png',
-        name : 'Limbo',
-        artist : 'Freddie Dredd',
-        music : 'music/limbo.mp3'
-    }
 ];
 
 loadTrack(track_index);
