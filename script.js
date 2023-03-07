@@ -86,6 +86,12 @@ const music_list = [
         name : 'Cradles',
         artist : 'Sub Urban',
         music : 'music/cradles.mp3'
+    },
+    {
+        img : 'images/death.jpeg',
+        name : 'DEATH',
+        artist : 'CG5',
+        music : 'music/death.mp3'
     }
 ];
 
