@@ -88,6 +88,12 @@ const music_list = [
         music : 'music/cradles.mp3'
     },
     {
+        img : 'images/bones.png',
+        name : 'Bones',
+        artist : 'Imagine Dragons',
+        music : 'music/bones.mp3'
+    },
+    {
         img : 'images/death.jpeg',
         name : 'DEATH',
         artist : 'CG5',
