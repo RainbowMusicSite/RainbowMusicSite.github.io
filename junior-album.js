@@ -28,10 +28,10 @@ const music_list = [
         music : 'music/beastphonk.mp3'
     },
     {
-        img : 'goofyahhvocals.png',
+        img : 'images/goofyahhvocals.png',
         name : 'Goofy Ahh Vocals',
         artist : 'ProducedByWhrxxa',
-        music : 'goofyahhvocals.mp3'
+        music : 'music/goofyahhvocals.mp3'
     }
 ];
 
