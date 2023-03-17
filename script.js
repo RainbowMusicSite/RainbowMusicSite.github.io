@@ -82,6 +82,12 @@ const music_list = [
         music : 'music/fallinginlove.mp3'
     },
     {
+        img : 'images/hero.jpeg',
+        name : 'Hero',
+        artist : 'Martin Garrix feat. JVKE',
+        music : 'music/hero.mp3'
+    },
+    {
         img : 'images/cradles.png',
         name : 'Cradles',
         artist : 'Sub Urban',
