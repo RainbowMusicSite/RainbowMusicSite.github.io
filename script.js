@@ -100,6 +100,12 @@ const music_list = [
         music : 'music/bones.mp3'
     },
     {
+        img : 'images/outofmymind.jpeg',
+        name : 'Out of my Mind',
+        artist : 'CG5',
+        music : 'music/outofmymind.mp3'
+    },
+    {
         img : 'images/death.jpeg',
         name : 'DEATH',
         artist : 'CG5',
