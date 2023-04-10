@@ -110,7 +110,13 @@ const music_list = [
         name : 'DEATH',
         artist : 'CG5',
         music : 'music/death.mp3'
-    }
+    },
+    {
+        img : 'images/butter.jpg',
+        name : 'Butter',
+        artist : 'BTS',
+        music : 'music/butter.mp3'
+    },
 ];
 
 loadTrack(track_index);
